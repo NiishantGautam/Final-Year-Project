@@ -5,8 +5,12 @@ function getBathValue() {
       return parseInt(i) + 1;
     }
   }
-  return -1; // Invalid Value
+  return -1; // Invalid Value -> kaise pata laga
+  
+  
 }
+bool ok=true;
+//I am just learning how to raise pr ok.
 
 function getBHKValue() {
   var uiBHK = document.getElementsByName("uiBHK");
