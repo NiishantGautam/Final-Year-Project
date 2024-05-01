@@ -9,7 +9,7 @@ function getBathValue() {
   
   
 }
-bool ok=true;
+ok=true;
 //I am just learning how to raise pr ok.
 
 function getBHKValue() {
